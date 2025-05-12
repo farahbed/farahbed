@@ -12,9 +12,15 @@ Je suis actuellement disponible pour des missions **freelance** ou un poste en *
 ## 🚀 Projets en avant
 
 ### 💘 Feel & Match  
-Un site de speed dating où l'élégance et la simplicité se rencontrent.  
-Le design minimaliste et épuré crée une expérience fluide et agréable. Le système de matching personnalisé, conçu pour faire ressortir les meilleures connexions, offre une expérience de rencontre moderne et raffinée.  
-🔗 [Voir le projet](#) *(remplacer par lien GitHub ou en ligne)*
+Un site de speed dating sur mesure, où l’élégance rencontre la technologie.
+Plateforme de rencontres modernes avec deux types d’expériences : speed dating et blind date personnalisés.
+🔹 Design épuré et raffiné (palette noir, doré, rouge)
+🔹 Système de matching basé sur des formulaires détaillés
+🔹 Architecture serverless sur AWS : Lambda, S3, DynamoDB, Route 53
+🔹 Sécurisation des données et gestion des utilisateurs avec JWT
+🔗 [Voir le projet en ligne](https://feel-and-match.vercel.app)  
+🔗 [Code GitHub](https://github.com/farahbed/feel-and-match)
+
 
 ### ⏱️ Timer Focus App  
 Une app simple de Pomodoro pour booster sa productivité.  
