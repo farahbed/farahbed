@@ -78,15 +78,3 @@ PHP 😅
 ---
 
 Merci d’être passé·e sur mon profil ! ✨  
-
----
-
-## 📈 GitHub Stats
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=farahbed&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahbed&layout=compact&theme=radical)
-
----
-
-Merci d’être passé·e sur mon profil ! ✨  
-
