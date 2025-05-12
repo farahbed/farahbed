@@ -11,7 +11,7 @@ Je suis actuellement disponible pour des missions **freelance** ou un poste en *
 
 ## 🚀 Projets en avant
 
-### 💘 Feel & Match  
+### 💘 Feel & Match  (en cours)
 Un site de speed dating sur mesure, où l’élégance rencontre la technologie.
 Plateforme de rencontres modernes avec deux types d’expériences : speed dating et blind date personnalisés.
 🔹 Design épuré et raffiné (palette noir, doré, rouge)
@@ -22,16 +22,22 @@ Plateforme de rencontres modernes avec deux types d’expériences : speed datin
 🔗 [Voir le projet en ligne](https://feel-match-next.vercel.app)  
 🔗 [Code GitHub](https://github.com/farahbed/feel-and-match)
 
+⏱️ Timer Focus App (prochainement)
 
-### ⏱️ Timer Focus App  
-Une app simple de Pomodoro pour booster sa productivité.  
-➡️ Notifications intégrées, cycles de concentration personnalisables.  
-🔗 [Voir le projet](#)
+Une app Pomodoro simple et rapide pour rester concentré.
+→ Build & déploiement automatisé (CI/CD GitHub Actions)
+→ Notifications navigateur | Dockerisation légère | Hébergement statique (Vercel/S3)
+🔗 Voir le projet
 
-### 🛍️ Mini e-commerce React  
-Un petit site e-commerce en React avec panier dynamique et intégration API produit.  
-➡️ Design responsive, gestion du stock, simulation de paiement.  
-🔗 [Voir le projet](#)
+⸻
+
+🛍️ Mini e-commerce React (prochainement)
+
+Un site e-commerce avec gestion de panier et intégration produit via API.
+→ Front React conteneurisé | API Node.js/Express + base NoSQL (DynamoDB/MongoDB)
+→ Déploiement via AWS (ECS ou Lambda) | Séparation front/back | Monitoring via CloudWatch
+🔗 Voir le projet
+
 
 ---
 
@@ -61,6 +67,17 @@ Git – GitHub – VS Code – Notion – Figma – Trello – Slack – Discord
 
 ## ❌ Mon ennemie jurée
 PHP 😅
+
+---
+
+## 📈 GitHub Stats
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=farahbed&show_icons=true&theme=radical)  
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahbed&layout=compact&theme=radical)
+
+---
+
+Merci d’être passé·e sur mon profil ! ✨  
 
 ---
 
