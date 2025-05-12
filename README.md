@@ -18,7 +18,8 @@ Plateforme de rencontres modernes avec deux types d’expériences : speed datin
 🔹 Système de matching basé sur des formulaires détaillés
 🔹 Architecture serverless sur AWS : Lambda, S3, DynamoDB, Route 53
 🔹 Sécurisation des données et gestion des utilisateurs avec JWT
-🔗 [Voir le projet en ligne](https://feel-and-match.vercel.app)  
+
+🔗 [Voir le projet en ligne](https://feel-match-next.vercel.app)  
 🔗 [Code GitHub](https://github.com/farahbed/feel-and-match)
 
 
