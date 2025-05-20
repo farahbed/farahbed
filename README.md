@@ -1,80 +1,74 @@
-# 👋 Hello World!
+# 👋 Hi, I'm Farah
 
-Je suis **Farah** !  
-Développeuse front-end passionnée, je conçois des sites web élégants, modernes et intuitifs.  
-Je suis actuellement disponible pour des missions **freelance** ou un poste en **CDI** dans le développement web.
+I'm a passionate **front-end developer** who designs and builds modern, elegant, and responsive websites.  
+I'm currently open to **freelance opportunities** or a **full-time position** in web development.
 
-🌐 **Portfolio** : [myportfoliofarah.vercel.app](https://myportfoliofarah.vercel.app)  
-💼 **LinkedIn** : [linkedin.com/in/farah-bendriss](https://www.linkedin.com/in/farah-bendriss)
-
----
-
-## 🚀 Projets en avant
-
-### 💘 Feel & Match  (en cours)
-Un site de speed dating sur mesure, où l’élégance rencontre la technologie.
-Plateforme de rencontres modernes avec deux types d’expériences : speed dating et blind date personnalisés.
-🔹 Design épuré et raffiné (palette noir, doré, rouge)
-🔹 Système de matching basé sur des formulaires détaillés
-🔹 Architecture serverless sur AWS : Lambda, S3, DynamoDB, Route 53
-🔹 Sécurisation des données et gestion des utilisateurs avec JWT
-
-🔗 [Voir le projet en ligne](https://feel-match-next.vercel.app)  
-🔗 [Code GitHub](https://github.com/farahbed/feel-and-match)
-
-⏱️ Timer Focus App (prochainement)
-
-Une app Pomodoro simple et rapide pour rester concentré.
-→ Build & déploiement automatisé (CI/CD GitHub Actions)
-→ Notifications navigateur | Dockerisation légère | Hébergement statique (Vercel/S3)
-🔗 Voir le projet
-
-⸻
-
-🛍️ Mini e-commerce React (prochainement)
-
-Un site e-commerce avec gestion de panier et intégration produit via API.
-→ Front React conteneurisé | API Node.js/Express + base NoSQL (DynamoDB/MongoDB)
-→ Déploiement via AWS (ECS ou Lambda) | Séparation front/back | Monitoring via CloudWatch
-🔗 Voir le projet
-
+🌐 **Portfolio**: [myportfoliofarah.vercel.app](https://myportfoliofarah.vercel.app)  
+💼 **LinkedIn**: [linkedin.com/in/farah-bendriss](https://www.linkedin.com/in/farah-bendriss)
 
 ---
 
-## 🛠️ Compétences
+## 🚗 Latest project
 
-### 💻 Langages  
-JavaScript – HTML – CSS – Python (bases)
+### 🔧 **Auto Élite – Car dealership showcase website (2025)**  
+A complete and elegant website for a second-hand car dealership.  
+🔹 Dynamic catalog with detailed car listings  
+🔹 Trade-in form with image upload  
+🔹 Clean, classy UI (black, white, red palette)  
+🔹 Animated timeline, carousel, SEO-ready  
+🔹 Deployed with Vercel
 
-### ⚙️ Frameworks & Librairies  
-React – Next.js – Tailwind CSS – Redux – Framer Motion – Express.js
-
-### ☁️ Cloud & Déploiement  
-Vercel – Netlify – GitHub Pages *(en cours d’apprentissage : AWS & Docker)*
-
-### 🧠 Méthodes & Outils  
-Git – GitHub – VS Code – Notion – Figma – Trello – Slack – Discord – Méthode Agile
+🔗 [Live demo](https://site-auto-elite.vercel.app)  
+🔗 [GitHub repository](https://github.com/farahbed/site-auto-elite)
 
 ---
 
-## 📚 En cours d’apprentissage / Intérêts
-- Cloud computing (AWS, Terraform)
+## ❤️ Ongoing projects
+
+### 💘 Feel & Match  
+A custom blind-date & speed dating platform.  
+🖤 Elegant design (black, gold, red)  
+⚙️ Built with AWS Lambda, S3, JWT, DynamoDB  
+🔗 [Live app](https://feel-match-next.vercel.app)  
+🔗 [GitHub repo](https://github.com/farahbed/feel-and-match)
+
+### ⏱️ Timer Focus App *(coming soon)*  
+Minimal Pomodoro app with CI/CD (GitHub Actions) & browser notifications.
+
+### 🛍️ Mini E-commerce *(coming soon)*  
+React front-end with product management and shopping cart. Node.js API backend.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages:** JavaScript, HTML, CSS, Python (basic)  
+**Frameworks:** React, Next.js, Tailwind CSS, Redux, Express  
+**Cloud & DevOps:** Vercel, Netlify, GitHub Pages, AWS (learning)  
+**Tools:** Git, GitHub, Figma, Notion, Trello, Slack, Discord  
+**Methodologies:** Agile, Kanban
+
+---
+
+## 📚 Currently learning
+
+- AWS Cloud (Lambda, S3, IAM, Route 53)
 - UI/UX Design
-- CRM (HubSpot, Salesforce)
-- GraphQL
+- GraphQL, CRM (HubSpot, Salesforce)
 
 ---
 
-## ❌ Mon ennemie jurée
-PHP 😅
+## 🤡 What I don’t use anymore  
+PHP 😅 (not for me)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=farahbed&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahbed&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farahbed&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farahbed&layout=compact&theme=radical)
 
 ---
 
-Merci d’être passé·e sur mon profil ! ✨  
+Thanks for visiting my profile! ✨  
+Feel free to reach out!
